@@ -1,20 +1,20 @@
-Kolmogorov-Arnold Network (KAN) Analysis Project
+# Kolmogorov-Arnold Network (KAN) Analysis Project
 
-Requirements
+## Requirements
 
-	•	Python version: 3.9.6
+1. Python version: 3.9.6
 
 Make sure you have Python version 3.9.6 installed to ensure compatibility with all the required libraries.
 
 Installation
 
-	1.	Clone this repository:
+## Clone this repository:
 
-git clone https://github.com/xtreamsrl/KAN
-cd KAN
+1. git clone https://github.com/xtreamsrl/KAN
+2. cd KAN
 
 
-	2.	Install the required packages:
+Install the required packages:
 
 pip install -r requirements.txt
 
